@@ -1,4 +1,4 @@
-d-barchart
+d-showdown
 ==================
 
 Example Showdown Derby component.  
