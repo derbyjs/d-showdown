@@ -1,0 +1,25 @@
+{
+  "name": "d-showdown",
+  "description": "Derby component wrapping showdown (markdown renderer)",
+  "version": "0.1.0",
+  "main": "index.js",
+  "keywords": [
+    "derby",
+    "component",
+    "showdown",
+    "markdown"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/codeparty/d-showdown.git"
+  },
+  "bugs": {
+    "url": "https://github.com/codeparty/d-showdown/issues"
+  },
+  "author": "Ian Johnson",
+  "license": "MIT",
+  "dependencies": {
+    "showdown": "^0.3.1"
+  },
+  "devDependencies": {}
+}
