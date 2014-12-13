@@ -24,6 +24,7 @@ SD.prototype.create = function() {
 
 SD.prototype.convert = function() {
   var text = this.model.get("text");
+  if(!text) return;
   var html = this.converter.makeHtml(text);
   this.model.set("html", html);
 }
