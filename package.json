@@ -1,7 +1,7 @@
 {
   "name": "d-showdown",
   "description": "Derby component wrapping showdown (markdown renderer)",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "main": "index.js",
   "keywords": [
     "derby",
