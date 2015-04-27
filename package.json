@@ -11,10 +11,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/codeparty/d-showdown.git"
+    "url": "git://github.com/derbyjs/d-showdown.git"
   },
   "bugs": {
-    "url": "https://github.com/codeparty/d-showdown/issues"
+    "url": "https://github.com/derbyjs/d-showdown/issues"
   },
   "author": "Ian Johnson",
   "license": "MIT",
