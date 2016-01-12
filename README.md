@@ -1,10 +1,10 @@
 d-showdown
 ==================
 
-Example Showdown Derby component.  
+Example Showdown Derby component.
 
 # Usage
-[Example usage](http://github.com/codeparty/derby-examples/tree/master/codemirror)
+[Example usage](http://github.com/derbyjs/derby-examples/tree/master/codemirror)
 
 ## In your template
 ```
@@ -18,5 +18,5 @@ Example Showdown Derby component.
 ```
 model.set("_page.text", "__Hello World__");
 ```
-See the [derby-examples](http://github.com/codeparty/derby-examples/tree/master/codemirror)
+See the [derby-examples](http://github.com/derbyjs/derby-examples/tree/master/codemirror)
 repo for an example using real-time data subscriptions to power multi-player markdown editing.
